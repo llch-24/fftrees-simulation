@@ -9,3 +9,10 @@ This project uses simulated gamble data to explore decision-making using Fast-an
   - Train FFTrees to classify which gamble should be chosen under different decision frameworks
 
 The goal is to test whether simple heuristics can approximate complex models like Expected Utility Theory (EUT) and Ergodicity Economics (EE).
+
+Files to run:
+- cues.R
+- fftrees.R
+- eut_fftrees.R
+
+If you want to rerun the simulations, run simulations.py
