@@ -16,3 +16,13 @@ Files to run:
 - eut_fftrees.R
 
 If you want to rerun the simulations, run simulations.py
+
+Make sure you have the following installed:
+In R:
+- tidyverse
+- marcusbuckmann/ffcr (if installing ffcr, install devtools first)
+
+In Python:
+- pandas
+- numpy
+- matplotlib
